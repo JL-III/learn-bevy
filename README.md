@@ -1,3 +1,5 @@
+# project moved to private repo for further development
+
 # voxels
 
 Project structure - functionality is broken up into a set of plugins.
